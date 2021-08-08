@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Framework_Serial")(type "KiCad")(uri "${KIPRJMOD}/Framework_Serial.pretty")(options "")(descr ""))
+)
