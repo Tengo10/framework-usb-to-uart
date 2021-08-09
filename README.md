@@ -10,7 +10,7 @@ Currently an early version, design untested
 - find a good LDO (AMS out of stock)
 
 ## Manufacture
-Parts, PCB and Assembly at JLC PCB is about 24€ for 5 PCBs and 2 Assembled
+Parts, PCB and Assembly at JLC PCB are about 24€ for 5 PCBs, 2 assembled.
 
 ## Legal
 Based on the reference design by the Framework Team. Not responsible for anything. Design provided as is.
