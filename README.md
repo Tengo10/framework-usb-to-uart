@@ -10,7 +10,7 @@ A USB to UART converter based on the CP2102 chip by Silicon Labs, also includes 
 
  - almost no extended JLC SMT parts
  - no FTDI parts
- - at least 150 mA@3.3V
+ - at least 150 mA @ 3.3V
 
 ## Todo
 
